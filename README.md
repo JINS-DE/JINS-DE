@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jins-de&label=Profile%20views&color=0e75b6&style=flat" alt="jins-de" /> </p>
 
-- 🔭 I’m currently working on [English Conversation Practice App](https://github.com/JINS-DE/English_Conversation_Practice_App.git)
+- 🔭 I’m currently working on [English Conversation Practice App](https://github.com/JINS-DE/English_Conversation_App.git)
 
 - 👯 collaborate on **Bab4jo**
 
