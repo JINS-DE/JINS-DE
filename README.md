@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [pintOS](https://github.com/JINS-DE/pintos-kaist.git)
 
-- 👯 collaborate on **Bab4jo**
+- 👯 collaborate on **kaist jungle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
