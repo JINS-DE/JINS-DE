@@ -5,7 +5,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlstjd044)](https://solved.ac/rlawlstjd044)
 
-- 🔭 I’m currently working on [English Conversation Practice App](https://github.com/JINS-DE/English_Conversation_App.git)
+- 🔭 I’m currently working on [pintOS](https://github.com/JINS-DE/pintos-kaist.git)
 
 - 👯 collaborate on **Bab4jo**
 
